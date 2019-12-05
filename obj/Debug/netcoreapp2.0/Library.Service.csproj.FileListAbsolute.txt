@@ -1,0 +1,14 @@
+/home/hungdtm/Downloads/Library/Library.Service/bin/Debug/netcoreapp2.0/Library.Service.deps.json
+/home/hungdtm/Downloads/Library/Library.Service/bin/Debug/netcoreapp2.0/Library.Service.runtimeconfig.json
+/home/hungdtm/Downloads/Library/Library.Service/bin/Debug/netcoreapp2.0/Library.Service.runtimeconfig.dev.json
+/home/hungdtm/Downloads/Library/Library.Service/bin/Debug/netcoreapp2.0/Library.Service.dll
+/home/hungdtm/Downloads/Library/Library.Service/bin/Debug/netcoreapp2.0/Library.Service.pdb
+/home/hungdtm/Downloads/Library/Library.Service/bin/Debug/netcoreapp2.0/Library.Repository.dll
+/home/hungdtm/Downloads/Library/Library.Service/bin/Debug/netcoreapp2.0/Library.Repository.pdb
+/home/hungdtm/Downloads/Library/Library.Service/obj/Debug/netcoreapp2.0/Library.Service.csprojAssemblyReference.cache
+/home/hungdtm/Downloads/Library/Library.Service/obj/Debug/netcoreapp2.0/Library.Service.csproj.CoreCompileInputs.cache
+/home/hungdtm/Downloads/Library/Library.Service/obj/Debug/netcoreapp2.0/Library.Service.AssemblyInfoInputs.cache
+/home/hungdtm/Downloads/Library/Library.Service/obj/Debug/netcoreapp2.0/Library.Service.AssemblyInfo.cs
+/home/hungdtm/Downloads/Library/Library.Service/obj/Debug/netcoreapp2.0/Library.Service.csproj.CopyComplete
+/home/hungdtm/Downloads/Library/Library.Service/obj/Debug/netcoreapp2.0/Library.Service.dll
+/home/hungdtm/Downloads/Library/Library.Service/obj/Debug/netcoreapp2.0/Library.Service.pdb
